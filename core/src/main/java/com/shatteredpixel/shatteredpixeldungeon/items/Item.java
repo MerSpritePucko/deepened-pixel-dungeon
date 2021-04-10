@@ -223,7 +223,7 @@ public class Item implements Bundlable {
 		return collect( Dungeon.hero.belongings.backpack );
 	}
 	
-	//returns a new item if the split was sucessful and there are now 2 items, otherwise null
+	//returns a new item if the split was successful and there are now 2 items, otherwise null
 	public Item split( int amount ){
 		if (amount <= 0 || amount >= quantity()) {
 			return null;
