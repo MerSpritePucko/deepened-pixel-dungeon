@@ -31,7 +31,7 @@ public class WornShortsword extends MeleeWeapon {
 		hitSound = Assets.Sounds.HIT_SLASH;
 		hitSoundPitch = 1.1f;
 
-		tier = 3;
+		tier = 100;
 		
 		bones = false;
 	}
