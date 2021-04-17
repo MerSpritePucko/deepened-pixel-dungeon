@@ -111,7 +111,7 @@ public class Assets {
 	}
 
 	public static class Music {
-		public static final String GAME		= "music/game.ogg";
+		public static final String GAME		= "music/game_new.ogg";
 		public static final String SURFACE	= "music/surface.ogg";
 		public static final String THEME	= "music/theme.ogg";
 	}
